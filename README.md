@@ -1,5 +1,6 @@
 # Letmeask
 Sistema desenvolvido para tornar possível a criação de salas de ajudas, onde os usuários poderam criar os tópicos no qual ele precisa de ajuda. O sistema Letmeask deixará mais fácil para o admnistrador do sistema receber e responder as dúvidas dos seus usuários em tempo real, utilizando a autenticação do Google para logar no sistema.
+[Acessar aplicação](https://letmeask-f7948.web.app/)
 
 [![letmeask](https://firebasestorage.googleapis.com/v0/b/werlen-dev.appspot.com/o/projects%2Freadmes%2Fletmeask%2Fletmeask.png?alt=media&token=ff02ff66-81be-4d91-8631-0dd0ab792226)](https://letmeask-f7948.web.app/)
 
